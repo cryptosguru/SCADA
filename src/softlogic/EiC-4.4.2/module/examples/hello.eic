@@ -1,4 +1,0 @@
-#!/usr/local/bin/eic -f
-
-#include <stdio.h>
-printf(" ******* Hello from EiC's script mode. ******\n");

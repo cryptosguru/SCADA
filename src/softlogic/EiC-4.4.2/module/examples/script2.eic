@@ -1,5 +1,0 @@
-#!/home/edb/bin/eic -f
-
-#include <stdio.h>
-
-printf("%d %s\n",_Argc, _Argv[0]);

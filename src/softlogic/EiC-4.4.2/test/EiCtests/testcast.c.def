@@ -1,4 +1,0 @@
-on
-	(void)
-Warning: in testcast.c near line 24: cast to pointer from integer of larger size
-	0
